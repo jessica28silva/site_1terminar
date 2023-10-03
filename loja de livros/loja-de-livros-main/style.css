@@ -1,0 +1,39 @@
+*{
+   margin: 0%;
+   padding: 0%;
+}
+
+.cabeçalho{
+ background-color: #E5DAD8;
+ color:#1E3F48;
+ display: flex;
+ justify-content: space-around; 
+ align-items: center;
+ padding: 10px 0;
+ 
+}
+.cabeçalho-imagem{
+    width:20%;
+    padding: 24px 0;
+}
+   
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 24px;
+    font-size: 28px;
+}
+.Escola{
+    background-image: linear-gradient(#E5DAD8,#f4ece8);
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+    
+}
+.escola-div-conteudo{
+    width: 90%;
+}
+.escola-titulo{
+    padding: 24px 0;
+    font-size: 30px;
